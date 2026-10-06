@@ -10,7 +10,7 @@ from aiogram.types import FSInputFile, Message
 from yt_dlp import YoutubeDL
 
 # BotFather bergan tokenni shu yerga qo'ying yoki BOT_TOKEN o'zgaruvchisiga yozing
-TOKEN = os.getenv("BOT_TOKEN", "BU_YERGA_TOKEN")
+TOKEN = os.getenv("8242967640:AAEdHIp4KpGQkMkeN_p84ohF50zV4JL76U8")
 
 # Telegram bot orqali maksimal fayl hajmi: 50 MB
 MAX_SIZE = 50 * 1024 * 1024
